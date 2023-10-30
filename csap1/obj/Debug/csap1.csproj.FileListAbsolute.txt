@@ -1,0 +1,11 @@
+G:\PRG\csap1\csap1\bin\Debug\csap1.exe.config
+G:\PRG\csap1\csap1\bin\Debug\csap1.exe
+G:\PRG\csap1\csap1\bin\Debug\csap1.pdb
+G:\PRG\csap1\csap1\obj\Debug\csap1.csproj.AssemblyReference.cache
+G:\PRG\csap1\csap1\obj\Debug\csap1.csproj.SuggestedBindingRedirects.cache
+G:\PRG\csap1\csap1\obj\Debug\csap1.Form1.resources
+G:\PRG\csap1\csap1\obj\Debug\csap1.Properties.Resources.resources
+G:\PRG\csap1\csap1\obj\Debug\csap1.csproj.GenerateResource.cache
+G:\PRG\csap1\csap1\obj\Debug\csap1.csproj.CoreCompileInputs.cache
+G:\PRG\csap1\csap1\obj\Debug\csap1.exe
+G:\PRG\csap1\csap1\obj\Debug\csap1.pdb
